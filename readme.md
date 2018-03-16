@@ -7,11 +7,10 @@ This is a quick external Numpad I bult in a couple of hours of spare time in Kic
 To make edit to this PCB, you will need:
 
 
-```
+
 * Kicad
 * TMK's keyboard_parts [component library](https://github.com/tmk/kicad_lib_tmk) and [footprint library](https://github.com/tmk/keyboard_parts.pretty)
 * /u/techieee's [switch footprint library](https://github.com/egladman/keebs.pretty)
-```
 
 ## Built With
 
