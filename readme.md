@@ -18,7 +18,7 @@ To make edit to this PCB, you will need:
 
 ## Authors
 
-* **TwitchingDan** - *Everything* - [TwitchingDan](https://github.com/TwitchingDan)
+* **twitchingdan** - *Everything* - [twitchingdan](https://github.com/twitchingdan)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
